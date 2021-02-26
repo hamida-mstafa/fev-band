@@ -1,14 +1,11 @@
-h1{
-    background-color: red;
- }
- p{
-     color: crimson;
- }
- p .mids{
-     font-family: 'Courier New', Courier, monospace;
-     color: darkblue;
- }
- #mids{
-     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-     color: darkgoldenrod;
- }
+.home{
+    background-image: url(images/image1.png);
+    height: 500px;
+    
+}
+#h1{
+    color: blue;
+    font-family: sans-serif;
+    font-weight: bold;
+    text-align: center;
+}
